@@ -5,5 +5,6 @@
   "decimals": 8,
   "icon_uri": "https://raw.githubusercontent.com/magicdev-29/pak92-aptos-token/main/logo.png",
   "project_uri": "https://pak92.top",
-  "external_url": "https://x.com/tokenpak92"
+  "external_url": "https://x.com/tokenpak92",
+  "coin_type": "0x1088a1a21ed90a45861b4c836f07478d92e963c13525e67c955af120a9bc18d2::pak92_token::PAK92"
 }
